@@ -1,4 +1,4 @@
-![](image.jpg)
+![](/images/moi%202.jpg)
 
 ## Hi there , I am Humphrey
 
@@ -12,5 +12,7 @@
 - I am passionate about technologies and open source
 
 #### Reach me on
+
 statu
+
 > musenjahumphrey@yahoo.com
