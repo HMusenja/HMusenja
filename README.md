@@ -1,17 +1,32 @@
-![](/images/moi%202.jpg)
 
-## Hi there , I am Humphrey
+**Humphrey Musenja**  
+★ Junior FULLSTACK WEB DEVELOPER
 
-##### *from Hamburg,Germany*
+---
 
-#### About me
+## who am I?
+✔ Skilled in Web Development  
+✔ Passionate about building scalable, user-friendly solutions  
+✔ Currently focusing on Frontend development 
 
-- I’m currently learning Web Development
-  at DCI
-- Feel free to reach out to me  for some interesting discussion.
-- I am passionate about technologies and open source
+---
 
-#### Reach me on
+## What am I doing now?
+➡ **Occupation**: 
+I recently made a bold career shift to pursue my passion for web development. I'm immersing myself in learning and building projects, excited to transform ideas into functional, user-friendly websites. This new path allows me to combine creativity and problem-solving, and I’m eager to grow in this field and contribute meaningfully to the tech world.
+➡ **Skills**:
+JavaScript,React,ExpressJs,MongoDB,NodeJs  
+➡ **Current Activity**:
+Developing my Skills with Building Projects.
 
+---
 
-> musenjahumphrey@yahoo.com
+## My Projects
+★ [**Event Finder & Planner**](https://github.com/HMusenja/Event-Search-Planner): A platform find Events based on loaction and Interest.  
+★ [**Inventory Hub**](https://github.com/HMusenja/Inventory-Hub): Real-time Inventory app done in collaboration with other classmates
+
+---
+
+## Contact Me
+✉ [Email](mailto:your.musenjahumphrey@yahoo.com)  
+📍 [LinkedIn](https://linkedin.com/in/Humphrey-Musenja)  
