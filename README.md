@@ -1,6 +1,6 @@
 
 **Humphrey Musenja**  
-★ Junior FULLSTACK WEB DEVELOPER
+★ *Junior FULLSTACK WEB DEVELOPER*
 
 ---
 
